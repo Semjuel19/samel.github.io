@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'https://samel.github.io/',
+  homepage: 'https://semjuel19.github.io/samel.github.io/',
 }
 
 const about = {
